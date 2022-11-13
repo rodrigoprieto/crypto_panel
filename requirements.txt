@@ -1,0 +1,8 @@
+pandas
+numpy
+streamlit
+python-binance
+ccxt
+ta
+millify
+sqlalchemy
