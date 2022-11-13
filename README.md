@@ -1,2 +1,3 @@
 # CRYPTO PANEL
-### Diseña un simple gráfico del precio de tu moneda favorita. 
+## Simple streamlit crypto panel using Binance API
+### Simple panel de crypto utilizando streamlit y la api de Binance 
