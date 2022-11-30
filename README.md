@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ```
 * Una vez que tenemos todas las librerias descargadas, ya podemos ejecutar el app con:
 ```
-python streamlit run main.py
+streamlit run main.py
 ```
 * Veremos un mensaje con la IP a donde podemos abrir el applet. Algo así:
 ```
