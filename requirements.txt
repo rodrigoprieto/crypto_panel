@@ -3,3 +3,4 @@ numpy
 streamlit
 python-binance
 sqlalchemy
+millify
